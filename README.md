@@ -1,6 +1,6 @@
-# myapp
+# 自定义右键菜单
 
-> A Vue.js project
+> vue 指令自定义右键菜单
 
 ## Build Setup
 
